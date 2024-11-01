@@ -1,0 +1,97 @@
+.wplgbtn-white-popup-block {display: table; line-height: normal !important;padding: 15px 15px 12px;}
+.wplgbtn-sign-popup .wplgbtn-error {color: red;background: #fff;padding: 5px;margin-bottom: 15px;display: block;border-left: 3px solid #FF1200;font-weight: 600;}
+.wplgbtn-response {transition: 0.4s all;-webkit-transition: 0.4s all;height: 50px;}
+.wplgbtn-popup-block .wp-wplgbtn-popup-wrp {
+  background: #fff none repeat scroll 0 0;
+  display: table;
+  height: auto;
+  margin: 0 auto;
+  padding: 20px 20px 50px 20px;
+  position: relative;
+  width: 450px;
+}
+.wplgbtn-login-frm-wrp,.wplgbtn-login-frm-wrp > form,.wplgbtn-row {
+  float: left;
+  width: 100%;
+}
+.wplgbtn-row .wplgbtn-input{width: 98%;}
+.wplgbtn-popup-block .mfp-close {
+  background: #313131 none repeat scroll 0 0 !important;
+  border-radius: 50%;
+  box-shadow: 0 0 0 0 #000 inset, 0 0 0 0 #0000;
+  color: #fff;
+  height: 35px;
+  line-height: 35px;
+  right: -12px;
+  text-align: center;
+  top: -12px;
+  width: 35px;
+}
+
+a.wplgbtn-btn {
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.wplgbtn-btn {
+  padding: 10px 30px;
+   -moz-appearance: none;
+    background-color: #3e3e3e;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 300ms ease-out 0s;
+    margin:5px;
+}
+
+.wplgbtn-btn:hover { background-color: #7a7a7a !important;}
+.wplgbtn-btn,.wplgbtn-btn:hover,.wplgbtn-btn:focus{color: #fff;}
+
+.wplgbtn-popup-block.mfp-wrap {background: rgba(255,255,255,0.70);}
+.wp-wplgbtn-popup-wrp .wplgbtn-response a {transition: 0.3s all;-webkit-transition: 0.3s all;color: #000;text-transform: uppercase;}
+
+.wplgbtn-sign-popup {max-width: 450px;background: rgba(47,46,46,0.90);outline: 5px solid #000;}
+
+.wplgbtn-row label {width: 100%;float: left;margin-bottom: 5px;line-height: 15px;position: relative;font-size: 15px;margin: 0 0 10px 0;}
+.wplgbtn-row .wplgbtn-input {
+  background-color: #fff;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07) inset;
+  color: #32373c;
+  font-size: 18px;
+  height: 30px;
+  margin-bottom: 20px;
+  outline: 0 none;
+  transition: border-color 50ms ease-in-out 0s;
+}
+.wplgbtn-row .wplgbtn-input:focus {border-color: #2d3940;color: #3e3e3e;}
+.wplgbtn-lost-password {
+  float: right;
+  line-height: 25px;
+}
+.wplgbtn-row .wplgbtn-checkbox {width: auto;height: auto;}
+.wplgbtn-error {
+  color: red;
+  display: block;
+  float: left;
+  line-height: 50px;
+  width: 100%;
+}
+.wplgbtn-success {
+  color: green;
+  display: block;
+  float: left;
+  line-height: 50px;
+  width: 100%;
+}
+.wplgbtn-input.wplgbtn-checkbox.wplgbtn-rememberme {
+  float: left;
+}
+.wplgbtn-lbl-remember {
+  float: left;
+  width: 40% !important;
+  line-height: 18px !important;
+}
